@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Danny Zheng and I am currently a student at the University of Maryland, College Park
 - 👀 I’m interested in any software development internship opportunities
 - 🌱 I’m currently learning javascript and python with fleuncy in java and C
-- 📫 reach me at: dannylobby123@gmail.com | dzheng17@terpmail.umd.edu 
+- 📫 reach me at: dannyzheng2001@gmail.com | dzheng17@terpmail.umd.edu 
